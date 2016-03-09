@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Howdy, humans!
+
+Just saying hello dare, dontcha know!
+
